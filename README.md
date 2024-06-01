@@ -1,2 +1,2 @@
 # PetLife
-Site comercial para um PetShop
+Site institucional para um PetShop
