@@ -150,6 +150,10 @@ footer nav a {
     text-decoration: none;
 }
 
+footer {
+    margin-bottom: 16px;
+}
+
 footer p {
     margin-bottom: 16px;
     max-width: 350px;
