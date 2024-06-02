@@ -98,15 +98,15 @@ h1, h2 {
 #duvidas {
     display: flex;
     align-items: start;
-    gap: 64p;
+    gap: 64px;
     padding: 64px 80px;
 }
 
-.duvidas {
+.duvida {
     position: relative;
 }
 
-.duvida strong {
+.duvida h3 {
     border: 2px solid #FF725E;
     border-radius: 8px;
     cursor: pointer;
