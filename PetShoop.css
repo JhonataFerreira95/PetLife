@@ -60,3 +60,11 @@ h1, h2 {
     padding: 16px 32px;
     text-underline-offset: 4px;
 }
+
+.absolute {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: -10;
+}
