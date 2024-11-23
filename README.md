@@ -85,4 +85,4 @@ Para dúvidas ou sugestões:
 
 ---
 
-Desenvolvido com ❤️ por [JhonataFerreira95]([https://github.com/JhonataOvirowa](https://github.com/JhonataFerreira95)).
+Desenvolvido por [JhonataFerreira95]([https://github.com/JhonataFerreira95](https://github.com/JhonataFerreira95)).
