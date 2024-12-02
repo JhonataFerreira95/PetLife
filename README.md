@@ -82,9 +82,8 @@ Para dúvidas ou sugestões:
 - **WhatsApp**: [(87) 8178-8357](https://wa.me/558781788357)
 - **Email**: [contato@petlife.com.br](mailto:contato@petlife.com.br)
 - **GitHub**: [@Jhonata](https://github.com/JhonataFerreira95/PetLife)
--  **GitHub**: [@Renan]([https://github.com/JhonataFerreira95/PetLife](https://github.com/bluesoc))
 
 ---
 
-Desenvolvido por [JhonataFerreira95]([https://github.com/JhonataFerreira95](https://github.com/JhonataFerreira95)).
+Desenvolvido por [Jhonata Ferreira](https://github.com/JhonataFerreira95) em conjunto com [Renan](https://github.com/bluesoc)
 
